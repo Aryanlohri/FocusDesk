@@ -197,6 +197,4 @@ You can back this file up or copy it to another machine to transfer your tasks.
 
 ---
 
-## 📄 License
 
-This project is submitted as an academic assignment and is not licensed for commercial use.
